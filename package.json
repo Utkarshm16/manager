@@ -11,10 +11,11 @@
     "date-fns": "^2.30.0"
   },
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "start": "npm start",
+    "build": "npm build",
+    "test": "npm test",
+    "eject": "react-scripts eject",
+    "install": "npm install"
   },
   "devDependencies": {
     "react-scripts": "5.0.1",
