@@ -14,8 +14,7 @@
     "start": "npm start",
     "build": "npm build",
     "test": "npm test",
-    "eject": "react-scripts eject",
-    "install": "npm install"
+    "eject": "react-scripts eject"
   },
   "devDependencies": {
     "react-scripts": "5.0.1",
